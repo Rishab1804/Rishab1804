@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">A passionate teen backend&frontend developer from India going to live in America....</h3>
+<h3 align="center">A passionate teen, backend&frontend developer from India going to live in America....</h3>
 
 - 🌱 I’m currently learning **React Native, Electron**
 
