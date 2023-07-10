@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">A passionate teen, backend&frontend developer from India going to live in America....</h3>
+<h3 align="center">A passionate teen, backend&frontend developer from India live in USA</h3>
 
 - 🌱 I’m currently learning **React Native, Electron**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **keshririshabh849@gmail.com**
 
-- ⚡ Fun fact **I am Moving to AMERICA!**
+- ⚡ Fun fact **I am in AMERICA!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
