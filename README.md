@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">A passionate teen, backend&frontend developer from India live in USA</h3>
+<h3 align="center">A Passionate teen, backend & frontend developer</h3>
 
 - 🌱 I’m currently learning **React Native, Electron**
 
 - 👨‍💻 All of my projects are available at [https://rishabhkeshri.000webhostapp.com/](https://rishabhkeshri.000webhostapp.com/)
 
-- 💬 Ask me about **Python, JavaScript React, MongoDb**
+- 💬 Ask me about **Python, JavaScript, React, MongoDb**
 
-- 📫 How to reach me **keshririshabh849@gmail.com**
-
-- ⚡ Fun fact **I am in AMERICA!**
+- 📫 How to reach me **rishabh.1keshri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
