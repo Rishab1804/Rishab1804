@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">A Passionate teen, backend & frontend developer</h3>
 
-- 🌱 I’m currently learning **React Native, Electron**
+- 🌱 I’m currently learning *Electron**
 
 - 👨‍💻 All of my projects are available at [https://rishabhkeshri.000webhostapp.com/](https://rishabhkeshri.000webhostapp.com/)
 
